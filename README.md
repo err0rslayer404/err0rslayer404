@@ -1,4 +1,5 @@
-https://count.getloli.com/@Err0rSlayer404?name=Err0rSlayer404&theme=moebooru&padding=6&offset=15&align=top&scale=1.8&pixelated=1&darkmode=auto
+![Profile Views](https://count.getloli.com/get/@Err0rSlayer404?name=Err0rSlayer404&theme=moebooru&padding=6&offset=15&align=top&scale=1.8&pixelated=1&darkmode=auto)
+
 
 # Hi there, I'm Manish Sahani 👋
 
