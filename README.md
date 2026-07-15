@@ -1,3 +1,5 @@
+https://count.getloli.com/@Err0rSlayer404?name=Err0rSlayer404&theme=moebooru&padding=6&offset=15&align=top&scale=1.8&pixelated=1&darkmode=auto
+
 # Hi there, I'm Manish Sahani 👋
 
 ### 💻 Aspiring Software Engineer | Full Stack Web Developer | Java Programmer
@@ -14,7 +16,4 @@ Passionate about building secure, scalable applications and <br>continuously imp
 
 ### Thanks for visiting my profile ❤️
 
----
-[![](https://komarev.com/ghpvc/?username=err0rslayer404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
